@@ -1,4 +1,6 @@
 # DataCamp
-DataCamp data-science courses I have completed.
+DataCamp data-science que eu completei. Tem alguns cursos da Trilha que não foram adicionados
 
-Some of these are set up to actually run locally (mapped to the datasets), whereas some will not run because I didn't have time to type additional code that DataCamp preloads in their excersizes.
+Alguns desses cursos rodam localmente (mapeando os datasets), logo não irão rodar porque eu no tive tempo para escrever o codigo adicional que o datacamp precarrega em alguns exercicios
+
+
